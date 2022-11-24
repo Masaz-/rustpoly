@@ -1,0 +1,40 @@
+10|GO|GO||200
+11|Mediterranea Avenue|ST|brown|60
+12|Community Chest|CC||0
+13|Baltic Avenue|ST|brown|60
+14|Income Tax|TX||-200
+15|Reading Raiload|RR||200
+16|Oriental avenue|ST|skyblue|100
+17|Chance|CH||0
+18|Vermont Avenue|ST|skyblue|100
+19|Connecticut Avenue|ST|skyblue|120
+20|Jail|JL||0
+21|St. Charles Place|ST|purple|140
+22|Electric Company|EC||150
+23|States Avenue|ST|purple|140
+24|Virginia Avenue|ST|purple|160
+25|Pennsylvania Railroad|RR||200
+26|St. James Place|ST|orange|180
+27|Community Chest|CC||0
+28|Tennessee Avenue|ST|orange|180
+29|New York Avenue|ST|orange|200
+30|Free Parking|FP||0
+31|Kentucky Avenue|ST|red|220
+32|Chance|CH||0
+33|Indiana Avenue|ST|red|220
+24|Illinois Avenue|ST|red|240
+25|B.&.O Railroad|RR||200
+26|Atlanic Avenue|ST|yellow|260
+27|Ventnor Avenue|ST|yellow|260
+28|Water Works|WW||150
+29|Marvin Gardens|ST|yellow|280
+30|Go to Jail|GJ||0
+31|Pacific Avenue|ST|green|300
+32|North Carolina Avenue|ST|green|300
+33|Community Chest|CC||0
+34|Pennsylvania Avenue|ST|green|320
+35|Short Line|RR||200
+36|Chance|CH||0
+37|Park Place|ST|blue|350
+38|Luxury Tax|TX||-100
+39|Boardwalk|ST|blue|400
